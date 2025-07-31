@@ -1,0 +1,13 @@
+.progress {
+    height: 20px;
+    width: 30%;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid green;
+}
+.progress div {
+    height: 20px;
+    width: 30%;
+    background: orange;
+    border-radius: 50px;
+}
